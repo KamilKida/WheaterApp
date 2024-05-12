@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WheaterAPP.Forms.ForcastForm" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABQAIBAAACAAIADAENChiAciAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Forms\ForcastForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheaterAPP.Forms.HistoryForm" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAAAQAAACAAAAAAAgCEAAACAAEEAAQAAAAAAAAgAAA=</HashCode>
+      <FileName>Forms\HistoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheaterAPP.MainForm" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgaQAAAGAAQASAEgCACQACAAAkABAiCBAAAAAAAQI=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheaterAPP.Forms.MoreInfoForm" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCQAAAACAAABABkASAAAACAAAAABAAAABACABAAAA=</HashCode>
+      <FileName>Forms\MoreInfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheaterAPP.Forms.ShowHistoryForm" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IACCAQAAACAAQBABkgSAAAACIAAEABAACABAAABIAAA=</HashCode>
+      <FileName>Forms\ShowHistoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheaterAPP.Service.FileService" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAEAAAAEAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Service\FileService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheaterAPP.Params" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Params.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheaterAPP.Program" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
