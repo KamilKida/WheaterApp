@@ -1,0 +1,32 @@
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\bin\Debug\WheaterAPP.exe.config
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\bin\Debug\WheaterAPP.exe
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\bin\Debug\WheaterAPP.pdb
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.csproj.AssemblyReference.cache
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.Forms.ForcastForm.resources
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.MainForm.resources
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.Forms.MoreInfoForm.resources
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.Properties.Resources.resources
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.csproj.GenerateResource.cache
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.csproj.CoreCompileInputs.cache
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.csproj.Up2Date
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.exe
+C:\Users\Kamil.Kida\Desktop\WheaterAPP\obj\Debug\WheaterAPP.pdb
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\bin\Debug\WheaterAPP.exe.config
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\bin\Debug\WheaterAPP.exe
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\bin\Debug\WheaterAPP.pdb
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.Forms.ForcastForm.resources
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.Forms.HistoryForm.resources
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.MainForm.resources
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.Forms.MoreInfoForm.resources
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.Forms.ShowHistoryForm.resources
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.Properties.Resources.resources
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.csproj.GenerateResource.cache
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.csproj.CopyComplete
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.exe
+C:\Users\kamil\OneDrive\Pulpit\STUDIA\Szkolenie Techniczne 1\WheaterAPP\obj\Debug\WheaterAPP.pdb
